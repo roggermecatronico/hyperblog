@@ -1,8 +1,8 @@
 body{
     text-align: center;
     font-family: Arial;
-    color: blue;
-    background-color: brown;
+    color: rgb(125, 125, 244);
+    background-color: rgb(60, 61, 51);
     margin: 0;
     padding: 0;
     font-size: 16px;
@@ -12,7 +12,7 @@ body{
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 1px solid #ddd;
+    border: 1px solid #61df48;
     margin: 0 auto;
 
 }
