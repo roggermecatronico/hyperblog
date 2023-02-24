@@ -28,6 +28,12 @@ body{
     color: white;
     margin: 0;
     padding: 0.5em 0 0.5em 3.5em;
+}
 
+
+#footer{
+    background: #777;
+    color: antiquewhite;
+    text-align: center;
 
 }
