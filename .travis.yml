@@ -1,0 +1,3 @@
+language: html
+script:
+  - html-validator --file index.html
