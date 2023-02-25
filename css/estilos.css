@@ -20,3 +20,24 @@ body{
 #container h1 {
     font-size: 20px;
 }
+
+#cabecera
+{
+    background: url("../images/423978222_future_of_mechatronic_and_developer_.png") 9px 9px;
+    box-shadow: 0px 2px 20px 0px rgba(red, green, blue, alpha);
+    color: rgb(38, 44, 218);
+    margin: 0;
+    padding: 0.5em 0 0.5em 3.5em;
+    text-align: center;
+    font-size: 40px;
+    font-family: "Helvetica";
+    text-shadow: -1px -1px 0 #fcf7f7, 1px -1px 0 #fcf7f7, -1px 1px 0 #fcf7f7, 1px 1px 0 #fcf7f7;
+}
+
+
+#footer{
+    background: #777;
+    color: antiquewhite;
+    text-align: center;
+
+}
