@@ -12,5 +12,20 @@ Está aprendiendo a programar
 Master 1 
 Master 2 
 Experimento 1 
-
 experimento 2  
+
+Vamos a ver algun dato que falta pero 
+no queremos perder
+estas lineas de codigo
+
+usaremos 
+git stash 
+
+veremos los datos necesarios 
+
+luego volveremos para seguir editando 
+
+sin hacer commit
+
+ya hemos revisado el dato y podemos seguir programando sin estar 
+haciendo commit inecesario
