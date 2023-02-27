@@ -49,6 +49,13 @@
 * git push origin :refs/tags/(tag)
 * git show-branch
 * gitk
+* git rebasse
+* git stash
+* gitstash list
+* git stash pop
+* git stash drop
+* git clean --dry-run
+* git clean -f
 
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
